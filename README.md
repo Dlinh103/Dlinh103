@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hngdiulin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/diuhngl?igsh=MTM1eGFidXB1cnQzaA%3D%3D&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:htdlinha2k25@gmail.com) 
 
 # 💻 Tech Stack:
